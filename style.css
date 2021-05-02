@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(90, 88, 88);
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  position: relative;
+  top: 130px;
+}
